@@ -8,7 +8,7 @@ The scenario model variants are:
 - MTHFR2fdx knockout (Δ*metVF*) as `metVFKO_glucose_all_fluxes.scen`
 - MTHFR2fdx knock-out and MTHFR2nadh knock-in (Δ*metVF ldh::metF*) as `metVFKO_metFKI_glucose_all_fluxes.scen`
 
-The model is named `Tkivui.sbml` having an respective CNApy project `Tkivui.cna`. It was created based on the an *A. woodii* model [3]. All details of what was changed can be found under the respective publication supplements under the title:
+The model is named `Tkivui.sbml` having an respective CNApy project `Tkivui.cna`. It was created based on an *A. woodii* model [3]. All details of what was changed can be found under the respective publication supplements under the title:
 
 **Disrupting the Wood-Ljungdahl pathway in the thermophilic acetogenThermoanaerobacter kivui facilitates high yield hydrogen production**
 
